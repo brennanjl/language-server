@@ -21,7 +21,7 @@ import (
 
 	"github.com/sourcegraph/go-lsp"
 	"github.com/sourcegraph/jsonrpc2"
-	"solomatov.me/kuneiform-vscode/lang"
+	"github.com/kwilteam/kuneiform/lang"
 )
 
 type stdioRWC struct{}
